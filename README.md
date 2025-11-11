@@ -1,5 +1,7 @@
 Análise Exploratória de Dados (EDA) — Students Performance
 
+A Etapa 1 contém a análise exploratória inicial, enquanto a Etapa 2 traz a versão atualizada e corrigida após ajustes e melhorias
+
 Este projeto tem como objetivo realizar a Etapa 1 da análise exploratória de dados (EDA), utilizando o dataset “Students Performance”, que contém informações sobre o desempenho de estudantes com base em diversos fatores socioeducacionais e hábitos de estudo.
 
 ⸻
