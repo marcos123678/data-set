@@ -45,3 +45,10 @@ mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
 mae, mse, r2
+
+(4.500793079131992, 31.636332286027034, 0.37169166718390445)
+
+
+MAE: 4.98
+MSE: 31.63
+R²: 0.37
